@@ -24,6 +24,7 @@ export default defineConfig({
   site: "https://Ample1827.github.io/Jurassic-Bytes.github.io/",
   base: "/Jurassic-Bytes.github.io/",
   trailingSlash: "always",
+  outDir: "docs",
   integrations: [
     tailwind(
         {
