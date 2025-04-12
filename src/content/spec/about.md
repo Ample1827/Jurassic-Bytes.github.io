@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Ample](https://github.com/Ample1827/Jurassic-Bytes.github.io).
 
 ::github{repo="saicaca/fuwari"}
 
