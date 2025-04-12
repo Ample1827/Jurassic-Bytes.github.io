@@ -1,9 +1,9 @@
 ---
-title: Simple Guides for Fuwari
+title: Simple Guides for Ample
 published: 2024-04-01
 description: "How to use this blog template."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Ample", "Blogging", "Customization"]
 category: Guides
 draft: false
 ---
