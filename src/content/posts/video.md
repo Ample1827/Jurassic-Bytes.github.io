@@ -19,10 +19,7 @@ published: 2023-10-19
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/-pSf9_MgsZ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 ## Audio Example
-<audio controls>
-  <source src="/Jurassic-Bytes/audio/recording.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<iframe width="100%" height="468" src="https://drive.google.com/file/d/1-08ASEz3nKXg1gfdPST2_ybRhQCTqFd2/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
 
 ## YouTube
 
