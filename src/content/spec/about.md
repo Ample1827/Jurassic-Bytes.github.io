@@ -1,7 +1,7 @@
 # About
 This is the demo site for [Ample](https://github.com/Ample1827/Jurassic-Bytes.github.io).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="Ample1827/Jurassic-Bytes.github.io"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
