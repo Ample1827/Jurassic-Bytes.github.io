@@ -50,9 +50,9 @@ Del 1 al 25 de mayo de 2025, publicaremos una entrada diaria siguiendo un orden 
 
         Blog 2  (Zuniceratops)
         Blog 5  (Ankylosaurus)
-        Blog 8  (Baryonyx)
+        Blog 8  (Dilophosaurus)
         Blog 11 (Camarasaurus)
-        Blog 14 (Dilophosaurus)
+        Blog 14 (Baryonyx)
         Blog 17 (Edmontosaurus)
         Blog 20 (Giganotosaurus)
         Blog 23 (Megalosaurus)
