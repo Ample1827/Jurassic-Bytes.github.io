@@ -1,51 +1,102 @@
 ---
-title: Simple Guides for Ample
-published: 2024-04-01
-description: "How to use this blog template."
+title: Proyecto Dinosaurios
+published: 2025-05-01
+description: "Un viaje de 25 días a través del tiempo, conociendo un dinosaurio nuevo cada día. Este blog es realizado por estudiantes apasionados por la ciencia y la historia natural."   
 image: "./cover.jpeg"
-tags: ["Ample", "Blogging", "Customization"]
-category: Guides
+tags: ["Dinosaurios", "Proyecto Escolar"]
+category: Presentación
 draft: false
 ---
-
-> Cover image source: [Source](https://ample1827.github.io/Jurassic-Bytes.github.io/_astro/cover.Wa8q4R_G_2vY8lg.webp)
-
-This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
-
-## Front-matter of Posts
-
-```yaml
 ---
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
+# 🦕 Bienvenidos a Jurrastic-Byte
+Este blog es parte de un proyecto colaborativo, donde cada integrante del equipo compartirá día con día la historia de un dinosaurio diferente, acompañado de:
+
+- 📝 Un resumen informativo
+
+- 🎙️ Una narración en audio
+
+- 🎨 Ilustraciones del dinosaurio
+
+- 📅 Publicado en orden cronológico y por autor
 ---
-```
+---
+:::important[👥 Integrantes] 
+Pérez López Tania Margarita
 
-| Attribute     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `title`       | The title of the post.                                                                                                                                                                                      |
-| `published`   | The date the post was published.                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
+Romero Cerezo Miguel Ángel
 
-## Where to Place the Post Files
+Romero Romero Adalberto
+:::
 
+---
+:::note[Nota]
+🗓️ Fechas del proyecto
+Del 1 al 25 de mayo de 2025, publicaremos una entrada diaria siguiendo un orden rotativo por autor.
 
+1. Pérez López Tania 
+    Margarita:
 
-Your post files should be placed in `src/content/posts/` directory. You can also create sub-directories to better organize your posts and assets.
+        Blog 1  ()
+        Blog 4  ()
+        Blog 7  ()
+        Blog 10 ()
+        Blog 13 ()
+        Blog 16 ()
+        Blog 19 ()
+        Blog 22 ()
+        Blog 25 ()
+    
+2. Romero Cerezo Miguel 
+    Ángel:
 
-```
-src/content/posts/
-├── post-1.md
-└── post-2/
-    ├── cover.png
-    └── index.md
-```
+        Blog 2  ()
+        Blog 5  ()
+        Blog 8  ()
+        Blog 11 ()
+        Blog 14 ()
+        Blog 17 ()
+        Blog 20 ()
+        Blog 23 ()
+
+3. Romero Romero 
+    Adalberto:
+
+        Blog 3  (Allosaurus)
+        Blog 6  (Brachiosaurus)
+        Blog 9  (Carnotaurus)
+        Blog 12 (Dreadnoughtus)
+        Blog 15 (Iguanodon)
+        Blog 18 (Nothronychus)
+        Blog 21 (Oviraptor)
+        Blog 24 (Utahraptor)
+
+:::
+
+---
+# 🔗 Liga del blog
+:::IMPORTANT[]
+https://ample1827.github.io/Jurassic-Bytes.github.io/
+
+🔗 Redes sociales
+
+- Facebook
+
+- Instagram
+
+- Twitter (X)
+:::
+
+---
+
+# 🌐 Atributos de calidad
+El blog fue desarrollado considerando aspectos como:
+
+1. Gobernabilidad de datos
+
+2. Estética visual y usabilidad
+
+3. Seguridad y sensibilidad del contenido
+
+4. Organización cronológica y por autor
+
+---
