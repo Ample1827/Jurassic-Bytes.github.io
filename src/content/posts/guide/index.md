@@ -36,27 +36,26 @@ Del 1 al 25 de mayo de 2025, publicaremos una entrada diaria siguiendo un orden 
 1. Pérez López Tania 
     Margarita:
 
-        Blog 1  ()
-        Blog 4  ()
-        Blog 7  ()
-        Blog 10 ()
-        Blog 13 ()
-        Blog 16 ()
-        Blog 19 ()
-        Blog 22 ()
-        Blog 25 ()
+        Blog 1  (Quetzalcoatlus)
+        Blog 4  (Spinosaurus)
+        Blog 7  (Stegosaurus)
+        Blog 10 (Therizinosaurus)
+        Blog 13 (Troodon)
+        Blog 16 (Velociraptor)
+        Blog 19 (Triceratops)
+        Blog 22 (Yutyrannus)
     
 2. Romero Cerezo Miguel 
     Ángel:
 
-        Blog 2  ()
-        Blog 5  ()
-        Blog 8  ()
-        Blog 11 ()
-        Blog 14 ()
-        Blog 17 ()
-        Blog 20 ()
-        Blog 23 ()
+        Blog 2  (Zuniceratops)
+        Blog 5  (Ankylosaurus)
+        Blog 8  (Baryonyx)
+        Blog 11 (Camarasaurus)
+        Blog 14 (Dilophosaurus)
+        Blog 17 (Edmontosaurus)
+        Blog 20 (Giganotosaurus)
+        Blog 23 (Megalosaurus)
 
 3. Romero Romero 
     Adalberto:
@@ -68,7 +67,8 @@ Del 1 al 25 de mayo de 2025, publicaremos una entrada diaria siguiendo un orden 
         Blog 15 (Iguanodon)
         Blog 18 (Nothronychus)
         Blog 21 (Oviraptor)
-        Blog 24 (Utahraptor)
+        Blog 24 (Parasaurolophus)
+        Blog 25 (Utahraptor)
 
 :::
 

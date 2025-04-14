@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Ample](https://github.com/Ample1827/Jurassic-Bytes.github.io).
+This site was built by [Ample](https://www.linkedin.com/in/adalberto-romero/).
 
 ::github{repo="Ample1827/Jurassic-Bytes.github.io"}
 
