@@ -18,7 +18,7 @@ Stegosaurus fue un herbívoro del Jurásico famoso por las placas en su espalda 
 ---
 # Audio
 
-<iframe width="400" height="250" src="https://drive.google.com/file/d/1ryPlYc-Z_QXCAMVLC9M5vXEMfTP-DbOv/preview" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://drive.google.com/file/d/1x8mf7DecItx7h9Lv5lQx6mnv9h5BMx_n/preview" frameborder="0" allowfullscreen></iframe>
 
 “Stegosaurus vivió hace unos 150 millones de años. Medía alrededor de 9 metros y tenía una pequeña cabeza, pero una poderosa cola con púas. Aunque sus placas no eran para defensa directa, pudieron haber servido para regular su temperatura o intimidar.”
 

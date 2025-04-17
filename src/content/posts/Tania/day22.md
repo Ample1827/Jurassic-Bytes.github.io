@@ -18,7 +18,7 @@ Yutyrannus fue un gran dinosaurio carnívoro emparentado con el Tyrannosaurus re
 ---
 # Audio
 
-<iframe width="400" height="250" src="https://drive.google.com/file/d/1ryPlYc-Z_QXCAMVLC9M5vXEMfTP-DbOv/preview" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://drive.google.com/file/d/17NtyF9HN_oKqT69XcF2EyCJxYAi7WJsg/preview" frameborder="0" allowfullscreen></iframe>
 
 “Yutyrannus vivió hace unos 125 millones de años y medía hasta 9 metros. A diferencia de otros grandes depredadores, tenía plumas, lo que sugiere que muchos dinosaurios, incluso gigantes, pudieron haber estado cubiertos por ellas.”
 

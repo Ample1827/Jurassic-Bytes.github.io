@@ -18,7 +18,7 @@ Edmontosaurus era un hadrosaurio, también conocido como dinosaurio de pico de p
 ---
 # Audio
 
-<iframe width="400" height="250" src="https://drive.google.com/file/d/1ryPlYc-Z_QXCAMVLC9M5vXEMfTP-DbOv/preview" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="250" src="https://drive.google.com/file/d/1ZoiA3C8NWchIKplH7dna0S4bB_fyzBhq/preview" frameborder="0" allowfullscreen></iframe>
 
 “Edmontosaurus vivió hace unos 70 millones de años. Podía medir más de 12 metros y caminar tanto en dos como en cuatro patas. Se desplazaba en grandes manadas, migrando para encontrar alimento.”
 
