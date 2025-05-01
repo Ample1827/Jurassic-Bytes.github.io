@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/demo-banner.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	toc: {
-		enable: false, // Display the table of contents on the right side of the post
+		enable: true, // Display the table of contents on the right side of the post
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
@@ -58,16 +58,21 @@ export const profileConfig: ProfileConfig = {
 	bio: "Explorando el mundo de los dinosaurios.", // Your bio, will be displayed on the profile card
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "Facebook",
+			icon: "ic:baseline-facebook", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://www.facebook.com/share/18xCDVKQda/?mibextid=wwXIfr",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Instagram",
+			icon: "mdi:instagram",
+			url: "https://www.instagram.com/jurrasic_byte_?igsh=MmgyaHU1bXE0ZmVy",
+		},
+		{
+			name: "Pinterest",
+			icon: "mdi:pinterest",
+			url: "https://pin.it/2uY5t8Fdg",
 		},
 		{
 			name: "GitHub",
