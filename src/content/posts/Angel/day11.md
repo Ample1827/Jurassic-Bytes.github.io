@@ -5,7 +5,7 @@ description: 'Dilophosaurus, con dos crestas en la cabeza, fue uno de los primer
 image: ''
 tags: ['Angel','Jurásico', 'Carnívoro', 'Crestas']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1GUL6Yhu3DjKIbsyUKr06H0WbFw9nlItP/preview" frameborder="0" allowfullscreen></iframe>

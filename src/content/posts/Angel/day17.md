@@ -5,7 +5,7 @@ description: 'Edmontosaurus, un dinosaurio pico de pato, vivía en grandes manad
 image: ''
 tags: ['Angel','Cretácico', 'Herbívoro', 'Migración']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1uW8xDm8uP3Q1v3ZKFWymHVv0tEs8dth7/preview" frameborder="0" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ description: 'Oviraptor, el "ladrón de huevos", fue un dinosaurio que en realid
 image: ''
 tags: ['Cretácico', 'Omnívoro', 'Padre','Adalberto']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 

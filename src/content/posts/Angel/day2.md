@@ -5,7 +5,7 @@ description: 'Zuniceratops, uno de los primeros ceratópsidos con cuernos, vivi�
 image: ''
 tags: ['Angel','Cretácico', 'Herbívoro', 'Cuernos']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1JbE6wIxOuiCzMJwQRACHfBQ-H8sIDcDd/preview" frameborder="0" allowfullscreen></iframe>

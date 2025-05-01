@@ -5,7 +5,7 @@ description: 'Camarasaurus, un saurópodo del Jurásico, tenía una cabeza más 
 image: ''
 tags: ['Angel','Jurásico', 'Herbívoro', 'Gigante']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1ILOhcsJ1G-v_4x2wBttERM3omE5Ux3mG/preview" frameborder="0" allowfullscreen></iframe>

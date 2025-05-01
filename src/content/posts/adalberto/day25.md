@@ -5,7 +5,7 @@ description: 'Utahraptor, un raptor gigante que cazaba en grupo, es uno de los r
 image: ''
 tags: ['Cretácico', 'Carroñero', 'Raptor','Adalberto']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 

@@ -5,7 +5,7 @@ description: 'Parasaurolophus, conocido por su cresta larga y hueca, emitía son
 image: ''
 tags: ['Cretácico', 'Herbívoro', 'Cresta','Adalberto']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 ---
