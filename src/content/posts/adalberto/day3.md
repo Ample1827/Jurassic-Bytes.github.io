@@ -5,7 +5,7 @@ description: 'Allosaurus, uno de los depredadores más grandes del Jurásico, ca
 image: ''
 tags: ['Jurásico', 'Carnívoro', 'Depredador','Adalberto']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: 'es'
 
 ---
