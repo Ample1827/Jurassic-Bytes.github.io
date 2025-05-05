@@ -5,7 +5,7 @@ description: 'Ankylosaurus, acorazado y con una maza en la cola, estaba bien pre
 image: ''
 tags: ['Angel','Cretácico', 'Herbívoro', 'Defensa']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1Tq-iIJdrIzJpLOlc0ccZsOKt7sBmSvmz/preview" frameborder="0" allowfullscreen></iframe>

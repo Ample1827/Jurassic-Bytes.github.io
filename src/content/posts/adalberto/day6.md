@@ -5,7 +5,7 @@ description: 'Brachiosaurus, un gigante herbívoro con un cuello largo que le pe
 image: ''
 tags: ['Jurásico', 'Herbívoro', 'Gigante','Adalberto']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1eG7HbXwBfmz3-pL2Ec3oZgwTdZxkqvwj/preview" frameborder="0" allowfullscreen></iframe>
