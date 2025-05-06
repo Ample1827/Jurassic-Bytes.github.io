@@ -5,7 +5,7 @@ description: 'Stegosaurus, con sus placas óseas y cola con púas, es uno de los
 image: ''
 tags: ['Tania','Jurásico', 'Herbívoro', 'Defensa']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1mLBF1GeG2MA_Ie0GBZAdbZH0os4m-cPi/preview" frameborder="0" allowfullscreen></iframe>
