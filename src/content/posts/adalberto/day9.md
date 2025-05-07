@@ -5,7 +5,7 @@ description: 'Carnotaurus, el dinosaurio de cuernos, era rápido y mortal, con u
 image: ''
 tags: ['Cretácico', 'Carnívoro', 'Depredador','Adalberto']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/19gk4FTzEiTvVJarUaEQbOb3RgLdIUaHI/preview" frameborder="0" allowfullscreen></iframe>
