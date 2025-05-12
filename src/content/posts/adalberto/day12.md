@@ -5,7 +5,7 @@ description: 'Dreadnoughtus, uno de los dinosaurios más pesados, dominaba el Cr
 image: ''
 tags: ['Cretácico', 'Herbívoro', 'Gigante','Adalberto']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1vq4MZ8lCbKV3Lk9fjkIw4NqxWEJodP7q/preview" frameborder="0" allowfullscreen></iframe>
