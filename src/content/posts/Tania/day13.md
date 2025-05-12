@@ -5,7 +5,7 @@ description: 'Troodon, pequeño y ágil, tenía uno de los cerebros más grandes
 image: ''
 tags: ['Tania','Cretácico', 'Omnívoro', 'Inteligente']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1msi5lRTF2N0TINohfsHdYmotBSfWPLnE/preview" frameborder="0" allowfullscreen></iframe>
