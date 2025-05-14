@@ -5,7 +5,7 @@ description: 'Iguanodon, pionero entre los dinosaurios, era un herbívoro con un
 image: ''
 tags: ['Cretácico', 'Herbívoro', 'Defensa','Adalberto']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/16ukeCqaNiUAGS0PcraiULGB_VvWC0Qri/preview" frameborder="0" allowfullscreen></iframe>

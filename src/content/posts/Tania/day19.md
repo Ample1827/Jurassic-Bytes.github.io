@@ -5,7 +5,7 @@ description: 'Triceratops, el dinosaurio de tres cuernos, probablemente usaba su
 image: ''
 tags: ['Tania','Cretácico', 'Herbívoro', 'Cuernos']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1V6wA0bZjgaS7Kj-muRtgHzBDEEj_TVah/preview" frameborder="0" allowfullscreen></iframe>
