@@ -5,7 +5,7 @@ description: 'Giganotosaurus, uno de los mayores carnívoros terrestres, rivaliz
 image: ''
 tags: ['Angel','Cretácico', 'Carnívoro', 'Gigante']
 category: 'Dinosaurios'
-draft: false 
+draft: true 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1h3PmPpYW6Ea8OCPnaHF5lCW6dGhqeHpa/preview" frameborder="0" allowfullscreen></iframe>

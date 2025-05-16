@@ -5,7 +5,7 @@ description: 'Nothronychus, el extraño dinosaurio de garras largas y plumas, ca
 image: ''
 tags: ['Cretácico', 'Herbívoro', 'Extraño','Adalberto']
 category: 'Dinosaurios'
-draft: false 
+draft: tue 
 lang: ''
 ---
 
