@@ -13,7 +13,7 @@ lang: ''
 ---
 
 # Biografía
-Giganotosaurus fue un depredador gigante del Cretácico que vivió en lo que hoy es Sudamérica. Era uno de los carnívoros más grandes que han existido.
+Giganotosaurus fue un depredador gigante del Cretácico que vivió en lo que hoy es Sudamérica. Era uno de los carnívoros más grandes que han existido
 
 ---
 # Audio
