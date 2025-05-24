@@ -5,7 +5,7 @@ description: 'Yutyrannus, un primo emplumado del T. rex, muestra que algunos gra
 image: ''
 tags: ['Tania','Cretácico', 'Carnívoro', 'Plumas']
 category: 'Dinosaurios'
-draft: true 
+draft: false 
 lang: ''
 ---
 <iframe width="100%" height="468" src="https://drive.google.com/file/d/1204RNAjoTN5EmKsSjv2UdS2g6LUXHtDp/preview" frameborder="0" allowfullscreen></iframe>
